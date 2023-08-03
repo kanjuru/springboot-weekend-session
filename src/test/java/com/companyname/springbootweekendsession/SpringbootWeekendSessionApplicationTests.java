@@ -8,6 +8,7 @@ class SpringbootWeekendSessionApplicationTests {
 
 	@Test
 	void contextLoads() {
+		assertEquals(1,1);
 	}
 
 }
